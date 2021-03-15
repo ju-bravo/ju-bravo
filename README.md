@@ -1,0 +1,5 @@
+- 👋 Hello, my name is Juliana
+- 👀 I'm interested in hacking and information security
+- 🌱 I am currently learning python and web development
+- 💞️ I'm looking to collaborate on web systems security and participate in Bug Bounty programs
+- 📫 You can follow me on this learning journey on my instagram @hack.sec, where I share a little of my studies in hacking and security.
